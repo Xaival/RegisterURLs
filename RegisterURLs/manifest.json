@@ -1,0 +1,19 @@
+{
+   "author": "Xaival",
+   "background": {
+      "service_worker": "background.js"
+   },
+   "description": "Registra en la consola las url.",
+   "icons": {
+      "128": "icons/icon128.png",
+      "16": "icons/icon16.png",
+      "32": "icons/icon32.png",
+      "48": "icons/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAig3T3Gbpm6kUnsQ8a8si0hfSnSoS1v5y9jHu3P1LfLCxoCTywpxe/f61lambT7efpM/3PQUivvQSJeMoNIUwIaMmdhez4xJlwmgHXkRgzGdDYrLamAyuUVklXW7HZneACbTFJg3vHxddRGl6Usu0PPN/skuhOue3Sg7OEdPcKbCZW6Y9g7YAjSSAX2knIFFYpf5MfbhLjYMT8JYLF3CWV9r8+sii36WK+PrLRF/mQDmjcZtt4Zs+AJIIaGlshxS7/2fG9H6tpLvzgDWByyEHmtAcNuuJtBeSu0EuC8yyMXGKOObsfEgpXWJa8+3MYcb5HMBle8PLC/TOckSWyQ1NPwIDAQAB",
+   "manifest_version": 3,
+   "name": "RegisterURLs",
+   "permissions": [ "tabs" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2022.04.19"
+}
