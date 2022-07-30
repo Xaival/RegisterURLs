@@ -19,9 +19,13 @@ Activar el Modo de desarrollador arriba a la derecha.
 
 ![image](https://user-images.githubusercontent.com/54257745/181919457-fcc1193b-a5c6-40eb-af7f-794039419bc0.png)
 
+<br>
+
 Ir a la extensión y entrar en `service worker`
 
 ![image](https://user-images.githubusercontent.com/54257745/181919471-6af6b2ec-00dd-4bc0-b295-0ec0769b612d.png)
+
+<br>
 
 Al darle se abrirá una ventana, hay que ir a la pestaña de consola y ahí aparecerán las URL de los sitios visitados.
 
